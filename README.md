@@ -25,3 +25,6 @@ AE-2B-26-A0-9A-AF
 ```sh
 java-wol.jar C:/Computers.txt
 ```
+
+### Credits
+Credit to [Matt Black](https://github.com/mafrosis) for [MagicPacket.java](https://github.com/mafrosis/Wake-On-Lan/blob/master/src/net/mafro/android/wakeonlan/MagicPacket.java) (Origional Link)
