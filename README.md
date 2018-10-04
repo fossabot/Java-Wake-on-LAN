@@ -1,4 +1,6 @@
 # Java Wake on LAN
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEdge-Route-Networks%2FJava-Wake-on-LAN.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEdge-Route-Networks%2FJava-Wake-on-LAN?ref=badge_shield)
+
 A simple java program to wake up computers after a controlled shutdown.
 
 <p align="center">
@@ -28,3 +30,7 @@ java-wol.jar C:/Computers.txt
 
 ### Credits
 Credit to [Matt Black](https://github.com/mafrosis) for [MagicPacket.java](https://github.com/mafrosis/Wake-On-Lan/blob/master/src/net/mafro/android/wakeonlan/MagicPacket.java) (Origional Link)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEdge-Route-Networks%2FJava-Wake-on-LAN.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEdge-Route-Networks%2FJava-Wake-on-LAN?ref=badge_large)
