@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Edge-Route-Networks/Edge-Route-Networks.github.io/master/img/logos/logo-dark.png">
+</p>
+
 # Java Wake on LAN
 A simple java program to wake up computers after a controlled shutdown.
 
