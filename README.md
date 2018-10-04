@@ -18,3 +18,10 @@ AE-2B-26-A0-9A-AF
 5B-93-CB-6F-33-53
 ```
 **Note:** Don't add any spaces in Computers.txt.
+
+### How to Run
+[Java](https://java.com) needs to be installed and the Computers.txt file needs to be specified as a command line parameter. 
+
+```sh
+java-wol.jar C:/Computers.txt
+```
