@@ -1,9 +1,9 @@
+# Java Wake on LAN
+A simple java program to wake up computers after a controlled shutdown.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Edge-Route-Networks/Edge-Route-Networks.github.io/master/img/logos/logo-dark.png">
 </p>
-
-# Java Wake on LAN
-A simple java program to wake up computers after a controlled shutdown.
 
 ### Configure Computers to Wake on LAN
 Edit Computers.txt and add the computer's IP address on the first line, then the MAC address on the 
